@@ -1,0 +1,14 @@
+# Goal
+string command
+string[] landmarks_to_visit
+---
+# Result
+string STATUS_IN_EXECUTION="in_execution"
+string STATUS_NOT_ABLE="not_able_to_execute"
+
+string status
+string command_echo
+string error_description
+---
+# Feedback
+string current_status

@@ -1,0 +1,7 @@
+# Goal - empty, just triggers the check
+---
+# Result
+bool operative
+string[] issues
+---
+# Feedback - empty

@@ -1,0 +1,13 @@
+# Goal
+string prompt
+string model
+---
+# Result
+bool success
+string response
+string error
+string command_string
+string execution_status
+---
+# Feedback
+string current_status
