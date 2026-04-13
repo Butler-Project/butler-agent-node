@@ -1,4 +1,4 @@
-## Execute Ros2 Nodes for Ollama frontend
+## Execute Ros2 Nodes for Ollama frontend and user interaction
 # Ollama docker
 ```bash
 cd /home/operador/Documents/kamerdyner-dev &&
