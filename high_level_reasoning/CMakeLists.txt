@@ -10,7 +10,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Pddl.msg"
   "msg/SystemState.msg"
   "srv/OllamaChatInteraction.srv"
-  "action/OllamaChatInteraction.action"
+  "action/AgentChatInteraction.action"
   "action/SystemOperativeCheck.action"
   "action/ExecuteCommand.action"
   DEPENDENCIES builtin_interfaces std_msgs
